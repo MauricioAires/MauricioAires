@@ -22,6 +22,7 @@ _"Nothing in this world beats good old persistence. Talent does not surpass. Not
 [![Storybook](https://img.shields.io/badge/-Storybook-1967d2?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/)
 [![Styled Components](https://img.shields.io/badge/-styled--components-1967d2?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![Cypress](https://img.shields.io/badge/-Cypress-1967d2?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Jest](https://img.shields.io/badge/-Jest-1967d2?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/)
 
 
 
