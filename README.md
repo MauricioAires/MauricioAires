@@ -21,6 +21,7 @@ _"Nothing in this world beats good old persistence. Talent does not surpass. Not
 [![Jira](https://img.shields.io/badge/-Jira-1967d2?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/br/software/jira)
 [![Storybook](https://img.shields.io/badge/-Storybook-1967d2?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/)
 [![Styled Components](https://img.shields.io/badge/-styled--components-1967d2?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![Cypress](https://img.shields.io/badge/-Cypress-1967d2?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
 
 
 
