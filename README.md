@@ -1,6 +1,18 @@
-# Mauricio Aires 
+# Mauricio Aires
 
-Web development front end
+<div styles="display:flex;align-items:center;">
+  <div align="left" styles="display:flex;align-items:center;">
+    Web development front end
+  <div/>
+  <div align="right" styles="display:flex;align-items:center;">
+
+  [![Visitors](https://komarev.com/ghpvc/?username=MauricioAires&label=Profile%20views&color=1967d2&style=flat)](https://github.com/MauricioAires)
+
+  </div>
+</div>
+
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mauricio%20Airs-1967d2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricioairs/)](https://www.linkedin.com/in/mauricioairs/) 
 [![Gmail Badge](https://img.shields.io/badge/-mauricioaires015@gmail.com-1967d2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricioaires015@gmail.com)](mailto:mauricioaires015@gmail.com)
