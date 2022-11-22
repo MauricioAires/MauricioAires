@@ -37,6 +37,14 @@ _"Nothing in this world beats good old persistence. Talent does not surpass. Not
 [![Cypress](https://img.shields.io/badge/-Cypress-1967d2?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Jest](https://img.shields.io/badge/-Jest-1967d2?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/)
 [![GraphQL](https://img.shields.io/badge/-GraphQl-1967d2?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Chakra UI](https://img.shields.io/badge/-Chakra-1967d2?style=flat-square&logo=chakra-ui&logoColor=white)](https://chakra-ui.com/)
+[![Fauna DB](https://img.shields.io/badge/-fauna-1967d2?style=flat-square&logo=fauna&logoColor=white)](https://fauna.com/)
+[![Prismic.io](https://img.shields.io/badge/-Prismic.io-1967d2?style=flat-square&logo=prismic&logoColor=white)](https://prismic.io/)
+[![NextJS](https://img.shields.io/badge/-Next.js-1967d2?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+  
+  
+  
+  
 
 
 
