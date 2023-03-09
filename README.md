@@ -40,6 +40,9 @@ _"Nothing in this world beats good old persistence. Talent does not surpass. Not
 [![Fauna DB](https://img.shields.io/badge/-fauna-1967d2?style=flat-square&logo=fauna&logoColor=white)](https://fauna.com/)
 [![Prismic.io](https://img.shields.io/badge/-Prismic.io-1967d2?style=flat-square&logo=prismic&logoColor=white)](https://prismic.io/)
 [![NextJS](https://img.shields.io/badge/-Next.js-1967d2?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Stitches](https://img.shields.io/badge/-Stitches-1967d2?style=flat-square&logo=stitches&logoColor=white)](https://stitches.dev/)
+  
+  
   
   
   
