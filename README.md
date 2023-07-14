@@ -41,6 +41,7 @@ _"Nothing in this world beats good old persistence. Talent does not surpass. Not
 [![Prismic.io](https://img.shields.io/badge/-Prismic.io-1967d2?style=flat-square&logo=prismic&logoColor=white)](https://prismic.io/)
 [![NextJS](https://img.shields.io/badge/-Next.js-1967d2?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Stitches](https://img.shields.io/badge/-Stitches-1967d2?style=flat-square&logo=stitches&logoColor=white)](https://stitches.dev/)
+[![Knex.js](https://img.shields.io/badge/-Knex.js-1967d2?style=flat-square&logo=knexjs&logoColor=white)](https://knexjs.org/)
   
   
   
