@@ -2,7 +2,7 @@
 
 <div styles="display:flex;align-items:center;">
   <div align="left" styles="display:flex;align-items:center;">
-    Web development front end PL
+   Mid-level Frontend Developer
   <div/>
   <div align="right" styles="display:flex;align-items:center;">
 
