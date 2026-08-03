@@ -2,7 +2,7 @@
 
 <div styles="display:flex;align-items:center;">
   <div align="left" styles="display:flex;align-items:center;">
-   Mid-level Frontend Developer
+   Frontend Engineer | Angular | React | TypeScript | NgRx | RxJS | 6+ Years of Experience
   <div/>
   <div align="right" styles="display:flex;align-items:center;">
 
