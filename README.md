@@ -4,6 +4,9 @@
   <div align="left" styles="display:flex;align-items:center;">
  Senior Frontend Engineer | Angular Specialist | React | TypeScript | NgRx | RxJS | 7+ Years
   <div/>
+<div align="left" styles="display:flex;align-items:center;font-size:10px;">
+   Brazil-based · Angular Specialist · Global Remote Opportunities
+  <div/>
   <div align="right" styles="display:flex;align-items:center;">
 
   [![Visitors](https://komarev.com/ghpvc/?username=MauricioAires&label=Profile%20views&color=1967d2&style=flat)](https://github.com/MauricioAires)
