@@ -5,7 +5,7 @@
  Senior Frontend Engineer | Angular Specialist | React | TypeScript | NgRx | RxJS | 7+ Years
   <div/>
 <div align="left" styles="display:flex;align-items:center;font-size:10px;">
-   Brazil-based · Angular Specialist · Global Remote Opportunities
+      <sub>Brazil-based · Angular Specialist · Global Remote Opportunities</sub>
   <div/>
   <div align="right" styles="display:flex;align-items:center;">
 
